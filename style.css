@@ -35,6 +35,9 @@ section{
     padding: 2%;
     height: 330px;
 }
+#About{
+    height: 400px;
+}
 .project-box img{
     width: 100%;
 }
